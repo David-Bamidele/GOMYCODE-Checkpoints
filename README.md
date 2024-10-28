@@ -11,7 +11,7 @@ This repository contains the following projects:
 2. [**Web Scraping Notes and Project**](#web-scraping-notes-and-project)
 3. [**Calculator Mini Project**](#calculator-mini-project)
 4. [**Data Pre-Processing Checkpoint**](#data-pre-processing-checkpoint)
-5. [**Data Visualization with Python Checkpoint**](#[data-visualization-with-python-checkpoint](https://github.com/David-Bamidele/GOMYCODE-Checkpoints/blob/main/Data%20Visualization%20With%20Python%20CP.ipynb))
+5. [**Data Visualization with Python Checkpoint**](#(https://github.com/David-Bamidele/GOMYCODE-Checkpoints/blob/main/Data%20Visualization%20With%20Python%20CP.ipynb))
 6. [**File Handling Checkpoint**](#file-handling-checkpoint)
 
 ---
